@@ -5,6 +5,34 @@
       "name": "Duplex"
     },
     {
+      "id": "Schependomlaan",
+      "name": "Schependomlaan"
+    },
+    {
+      "id": "Schependomlaan_invalid",
+      "name": "Schependomlaan Invalid"
+    },
+    {
+      "id": "WestRiversideHospital",
+      "name": "West Riverside Hospital"
+    },
+    {
+      "id": "OTCConferenceCenter",
+      "name": "OTC Conference Center"
+    },
+    {
+      "id": "ManyModels",
+      "name": "Duplex and Conference Center"
+    },
+    {
+      "id": "Systhema",
+      "name": "Systhema Test Model"
+    },
+    {
+      "id": "WaterLock",
+      "name": "WaterLock"
+    },
+    {
       "id": "Focchi",
       "name": "Focchi"
     }
