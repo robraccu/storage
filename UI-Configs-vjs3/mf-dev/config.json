@@ -57,6 +57,12 @@
       "kpimEditor": "/kpim/kpim-editor-config.json",
       "measuresList": "/kpim/kpim-measures-list-config.json",
       "kpimMeasure": "/kpim/kpim-measure-config.json"
+    },
+    "dtwin": {
+      "auth": "/dtwin/dtwin-auth-config.json",
+      "eventHandler": "/dtwin/dtwin-event-handler-config.json",
+      "sidebar": "/dtwin/dtwin-sidebar-config.json",
+      "modelViewer": "/dtwin/dtwin-model-viewer-config.json"
     }
   }
 }
