@@ -9,7 +9,6 @@
     "@digital-enabler/demf-dme-event-handler": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-dme-event-handler@2.0.2/app.js",
     "@digital-enabler/sidebar": "https://cdn.jsdelivr.net/npm/@digital-enabler/sidebar@2.0.10/app.js",
     "@digital-enabler/footer": "https://cdn.jsdelivr.net/npm/@digital-enabler/footer@2.0.3/app.js",
-    "@digital-enabler/demf-model-viewer": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-model-viewer@0.0.1/app.js",
     "@digital-enabler/dtwin-gui": "https://rules.dev.dev-digital-enabler.eng.it/demf-dtwin-gui.js"
   }
 }
