@@ -1,6 +1,6 @@
 {
    "mf":"Auth",
-   "api":"//apps.digibuild-project.eu/bim-manager/api/v1",
+   "api":"https://apps.digibuild-project.eu/bim-manager/api/v1",
    "keycloak":{
       "url":"https://digibuild.epu.ntua.gr/auth",
       "clientId":"focchi-middleware",
