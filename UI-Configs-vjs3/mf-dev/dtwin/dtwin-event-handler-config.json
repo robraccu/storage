@@ -1,4 +1,4 @@
 {
     "mf": "Event Handler",
-    "api": "https://apps.digibuild-project.eu/bim-manager/api/v1"
+    "api": "http://localhost:8082/api/v1"
 }

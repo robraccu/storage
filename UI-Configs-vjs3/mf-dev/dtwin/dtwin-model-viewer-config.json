@@ -1,5 +1,5 @@
 {
   "mf": "Model Viewer",
-  "api": "https://apps.digibuild-project.eu/bim-manager/api/v1",
+  "api": "http://localhost:8082/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
