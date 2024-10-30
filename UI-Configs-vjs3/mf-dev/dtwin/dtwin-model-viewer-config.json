@@ -2,5 +2,6 @@
   "mf": "Model Viewer",
   "api": "http://localhost:8082/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
-  "modelStorage": "http://apps.digibuild-project.eu/focchi-storage/digital-twin/focchi/data"
+  "modelStorage": "http://apps.digibuild-project.eu/focchi-storage/digital-twin/focchi/data",
+  "project": "focchi"
 }
