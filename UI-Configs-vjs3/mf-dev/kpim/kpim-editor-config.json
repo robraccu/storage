@@ -1,6 +1,6 @@
 {
   "mf": "KPIM Editor",
-  "api": "//localhost:3000/api/v1",
+  "api": "//localhost:32000/api/v1",
   "unitSymbols": {
     "METER":"m",
     "KILOMETER":"km",
