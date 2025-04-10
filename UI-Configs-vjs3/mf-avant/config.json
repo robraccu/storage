@@ -28,19 +28,6 @@
       "customOperators": "/dme/dme-custom-operators-config.json",
       "customOperatorDetails": "/dme/dme-custom-operator-details-config.json"
     },
-    "dbm": {
-      "auth": "/dbm/dbm-auth-config.json",
-      "sidebar": "/dbm/dbm-sidebar-config.json",
-      "databaseList": "/dbm/dbm-database-list-config.json"
-    },
-    "console": {
-      "auth": "/console/console-auth-config.json",
-      "sidebar": "/console/console-sidebar-config.json",
-      "eventHandler": "/console/console-event-handler-config.json",
-      "consoleHome": "/console/console-home-config.json",
-      "services": "/console/console-services-config.json",
-      "contexts": "/console/console-contexts-config.json"
-    },
     "rm": {
       "ruleManager": "/rm/rm-common-config.json",
       "auth": "/rm/rm-auth-config.json",
@@ -58,12 +45,6 @@
       "measuresList": "/kpim/kpim-measures-list-config.json",
       "kpimMeasure": "/kpim/kpim-measure-config.json",
       "kpimCompare": "/kpim/kpim-compare-config.json"
-    },
-    "dtwin": {
-      "auth": "/dtwin/dtwin-auth-config.json",
-      "eventHandler": "/dtwin/dtwin-event-handler-config.json",
-      "sidebar": "/dtwin/dtwin-sidebar-config.json",
-      "modelViewer": "/dtwin/dtwin-model-viewer-config.json"
     }
   }
 }
