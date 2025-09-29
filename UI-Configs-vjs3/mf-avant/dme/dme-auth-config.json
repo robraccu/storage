@@ -1,5 +1,6 @@
 {
-   "mf": "Auth",
+   "name": "Auth",
+   "mf": "demf-auth",
    "api": "//localhost:8083/api",
    "keycloak": {
       "url": "https://localhost:8787/auth",
