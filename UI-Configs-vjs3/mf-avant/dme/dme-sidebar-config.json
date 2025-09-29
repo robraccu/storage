@@ -1,5 +1,6 @@
 {
-  "mf": "Sidebar",
+  "name": "Sidebar",
+  "mf": "demf-sidebar",
   "api": "//localhost:8083/api",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
   "jsonTools": "https://raw.githubusercontent.com/robraccu/storage/main/UI-Configs/mf-dev/common/services.json",
