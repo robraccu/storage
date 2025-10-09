@@ -1,5 +1,6 @@
 {
-  "mf": "Mashup Editor",
+  "name": "Mashup Editor",
+  "mf": "demf-mashups-editor",
   "api": "//localhost:8083/api/v3",
   "apiDraw": "//localhost:8083/v3"
 }
