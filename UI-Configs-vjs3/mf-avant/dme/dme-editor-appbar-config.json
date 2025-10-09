@@ -1,4 +1,5 @@
 {
-  "mf": "Mashup Editor Appbar",
+  "name": "Mashup Editor Appbar",
+  "mf": "demf-mashups-editor-appbar",
   "api": "//localhost:8083/api/v3"
 }
