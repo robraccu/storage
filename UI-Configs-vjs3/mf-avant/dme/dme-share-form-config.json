@@ -1,4 +1,5 @@
 {
-  "mf": "Share Form",
+  "name": "Share Form",
+  "mf": "demf-share-form",
   "api": "//localhost:8083/api/v3"
 }
