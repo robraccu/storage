@@ -1,5 +1,6 @@
 {
-  "mf": "Flow Editor",
+  "name": "Flow Editor",
+  "mf": "demf-flow-editor",
   "api": "//localhost:8083/api/v3",
   "triggerProxyUrlLayout": "[protocol_current_url]//dme-proxy.[Tenant][domain_current_url]/mashups/[id_flow]"
 }
