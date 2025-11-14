@@ -5,6 +5,6 @@
   "apiDraw": "//localhost:8083/v3",
   "importFileType": {
     "csv": ".csv",
-    "excel": ".xsl,.xslx"
+    "excel": ".xls,.xlsx"
   }
 }
