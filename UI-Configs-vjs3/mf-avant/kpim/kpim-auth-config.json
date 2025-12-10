@@ -1,5 +1,6 @@
 {
-   "mf":"Auth",
+   "name":"Auth",
+   "mf":"demf-auth",
    "api":"//localhost:32000/api/v1",
    "keycloak":{
       "url":"https://idm.dev-digital-enabler.eng.it/auth",
