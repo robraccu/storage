@@ -1,5 +1,6 @@
 {
-  "mf": "KPIM Editor",
+  "name": "KPIM Editor",
+  "mf": "demf-kpim-editor",
   "api": "//localhost:32000/api/v1",
   "unitSymbols": {
     "METER":"m",
