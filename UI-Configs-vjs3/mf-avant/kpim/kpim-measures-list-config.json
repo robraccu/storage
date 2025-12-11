@@ -1,5 +1,6 @@
 {
-  "mf": "Measures List",
+  "name": "Measures List",
+  "mf": "demf-measures-list",
   "api": "//localhost:32000/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
