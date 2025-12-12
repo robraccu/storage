@@ -41,9 +41,11 @@
       "eventHandler": "/kpim/kpim-event-handler-config.json",
       "sidebar": "/kpim/kpim-sidebar-config.json",
       "kpisList": "/kpim/kpim-kpis-list-config.json",
-      "kpimEditor": "/kpim/kpim-editor-config.json",
       "kpimEditorControlPanel": "/kpim/kpim-editor-config.json",
       "kpimEditorDefinition": "/kpim/kpim-editor-config.json",
+      "kpimEditorFormula": "/kpim/kpim-editor-config.json",
+      "kpimEditorDashboard": "/kpim/kpim-editor-config.json",
+      "kpimEditorSummary": "/kpim/kpim-editor-config.json",
       "measuresList": "/kpim/kpim-measures-list-config.json",
       "kpimMeasure": "/kpim/kpim-measure-config.json",
       "kpimCompare": "/kpim/kpim-compare-config.json"
