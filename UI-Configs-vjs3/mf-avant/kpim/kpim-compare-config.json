@@ -1,5 +1,5 @@
 {
-  "Name": "KPIM Compare",
+  "name": "KPIM Compare",
   "mf": "demf-kpim-compare",
   "api": "//localhost:32000/api/v1"
 }
