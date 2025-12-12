@@ -41,6 +41,7 @@
       "eventHandler": "/kpim/kpim-event-handler-config.json",
       "sidebar": "/kpim/kpim-sidebar-config.json",
       "kpisList": "/kpim/kpim-kpis-list-config.json",
+      "kpimEditor": "/kpim/kpim-editor-config.json",
       "kpimEditorControlPanel": "/kpim/kpim-editor-config.json",
       "kpimEditorDefinition": "/kpim/kpim-editor-config.json",
       "kpimEditorFormula": "/kpim/kpim-editor-config.json",
