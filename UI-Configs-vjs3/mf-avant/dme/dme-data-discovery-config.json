@@ -1,0 +1,5 @@
+{
+    "name": "Data Discovery",
+    "mf": "demf-data-discovery",
+    "api": "//localhost:8083/api"
+}
