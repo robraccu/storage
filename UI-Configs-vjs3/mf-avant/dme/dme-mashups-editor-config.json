@@ -3,6 +3,7 @@
   "mf": "demf-mashups-editor",
   "api": "//localhost:8083/api/v3",
   "apiDraw": "//localhost:8083/v3",
+  "apiChat": "//localhost:8083/chat",
   "importFileType": {
     "csv": ".csv",
     "excel": ".xls,.xlsx"
