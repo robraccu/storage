@@ -24,7 +24,13 @@
       "title": "labels.custom-operators",
       "icon": "mdi-puzzle",
       "link": "/custom-operators"
+    },
+    {
+      "title": "labels.data-discovery",
+      "icon": "mdi-search-web",
+      "link": "/data-discovery"
     }
+    
   ],
   "favorites": {
     "enabled": false,
