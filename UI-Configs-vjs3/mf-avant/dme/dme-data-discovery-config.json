@@ -1,5 +1,5 @@
 {
     "name": "Data Discovery",
     "mf": "demf-data-discovery",
-    "api": "https://dme-api.avant.digital-enabler.eng.it/api/v3"
+    "api": "//localhost:8083/api/v3"
 }
