@@ -5,10 +5,10 @@
     "fileFormats": {
         "CSV":  { "icon": "mdi-file-delimited", "color": "green" },
         "JSON": { "icon": "mdi-code-json", "color": "blue" },
-        "XML":  { "icon": "mdi-file-code", "color": "orange" },
+        "XML":  { "icon": "mdi-file-code", "color": "deep-orange" },
         "PDF":  { "icon": "mdi-file-pdf-box", "color": "red" },
-        "XLSX": { "icon": "mdi-file-excel", "color": "green" },
-        "XLS":  { "icon": "mdi-file-excel", "color": "green" },
-        "ZIP":  { "icon": "mdi-folder-zip", "color": "purple" }
+        "XLSX": { "icon": "mdi-file-excel", "color": "teal" },
+        "XLS":  { "icon": "mdi-file-excel", "color": "teal" },
+        "ZIP":  { "icon": "mdi-folder-zip", "color": "amber" }
       }
 }
