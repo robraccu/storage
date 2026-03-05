@@ -1,5 +1,6 @@
 {
-   "mf": "Rules List",
+   "name": "Rules List",
+   "mf": "demf-rules-list",
    "api": "//localhost:8085/api/v1",
    "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
