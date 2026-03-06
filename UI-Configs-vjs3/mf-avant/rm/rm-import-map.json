@@ -14,6 +14,6 @@
     "@digital-enabler/demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-conditions@0.0.15/app.js",
     "@digital-enabler/demf-rule-editor-actions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-actions@0.0.14/app.js",
     "@digital-enabler/demf-rule-editor-summary": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-summary@0.0.8/app.js",
-    "demf-rm-gui": "https://rules.avant.digital-enabler.eng.it/demf-rm-gui.js"
+    "demf-gui-root": "https://mashups.avant.digital-enabler.eng.it/gui-root.js"
   }
 }
