@@ -1,4 +1,4 @@
-f{
+{
   "imports": {
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@6.0.3/lib/es2015/system/single-spa.min.js",
     "vue": "https://cdn.jsdelivr.net/npm/vue@3.5.22/dist/vue.global.min.js",
