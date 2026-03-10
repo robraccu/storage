@@ -5,6 +5,6 @@
    "keycloak":{
       "url":"https://idm.digital-enabler.eng.it/auth",
       "clientId":"rule-app-local",
-      "enabled":true
+      "enabled":false
    }
 }
