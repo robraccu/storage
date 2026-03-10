@@ -8,7 +8,7 @@
     "demf-event-handler": "https://cdn.jsdelivr.net/npm/demf-event-handler@3.0.1/mf-app.js",
     "demf-sidebar": "https://cdn.jsdelivr.net/npm/demf-sidebar@3.0.3/mf-app.js",
     "demf-footer": "https://cdn.jsdelivr.net/npm/demf-footer@3.0.2/mf-app.js",
-    "demf-rules-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rules-list@3.0.0/app.js",
+    "demf-rules-list": "https://cdn.jsdelivr.net/npm/demf-rules-list@3.0.0/app.js",
     "@digital-enabler/demf-rule-editor-control-panel": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-control-panel@0.0.7/app.js",
     "@digital-enabler/demf-rule-editor-assets": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-assets@0.0.16/app.js",
     "@digital-enabler/demf-rule-editor-conditions": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-rule-editor-conditions@0.0.15/app.js",
