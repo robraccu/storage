@@ -18,7 +18,7 @@
     "@digital-enabler/dme-flows-list": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flows-list@1.2.3/app.js",
     "@digital-enabler/dme-flow-editor": "https://cdn.jsdelivr.net/npm/@digital-enabler/dme-flow-editor@1.8.5/app.js",
     "@digital-enabler/demf-custom-operators": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-custom-operators@0.2.1/app.js",
-    "@digital-enabler/demf-custom-operator-details": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-custom-operator-details@1.0.0/app.js",
+    "@digital-enabler/demf-custom-operator-details": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-custom-operator-details@1.0.1/app.js",
     "@digital-enabler/dme-gui": "https://iot-mashups-test.comune.milano.it/demf-dme-gui.js"
   }
 }
