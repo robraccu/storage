@@ -3,8 +3,8 @@
    "mf":"demf-auth",
    "api":"//localhost:8085/api/v1",
    "keycloak":{
-      "url":"https://idm.dev-digital-enabler.eng.it/auth",
-      "clientId":"rule-app",
-      "enabled":true
+      "url":"https://idm.digital-enabler.eng.it/auth",
+      "clientId":"rule-app-local",
+      "enabled":false
    }
 }
