@@ -2,7 +2,7 @@
     "name": "Data Discovery",
     "mf": "demf-data-discovery",
     "api": "//localhost:8083/api/v3",
-    "standaloneMode": true,
+    "standaloneMode": false,
     "fileFormats": {
         "CSV":  { "icon": "mdi-file-delimited", "color": "green" },
         "JSON": { "icon": "mdi-code-json", "color": "blue" },
