@@ -6,6 +6,8 @@
   "apiChat": "//localhost:8083/chat",
   "importFileType": {
     "csv": ".csv",
-    "excel": ".xls,.xlsx"
+    "excel": ".xls,.xlsx",
+    "json": ".json",
+    "text": ".txt"
   }
 }
