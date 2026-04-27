@@ -1,0 +1,9 @@
+{
+  "mf": "Auth",
+  "api": "http://localhost:3000/api/v1",
+  "keycloak": {
+    "url": "https://idm.digital-enabler.eng.it/auth",
+    "clientId": "rule-app",
+    "enabled": false
+  }
+}
