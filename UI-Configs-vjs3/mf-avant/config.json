@@ -62,6 +62,19 @@
       "eventHandler": "/dd/dd-event-handler-config.json",
       "sidebar": "/dd/dd-sidebar-config.json",
       "dataDiscovery": "/dd/dd-data-discovery-config.json"
+    },
+    "dtm": {
+      "auth": "/dtm/dtm-auth-config.json",
+      "eventHandler": "/dtm/dtm-event-handler-config.json",
+      "sidebar": "/dtm/dtm-sidebar-config.json",
+      "digitalTwinCommon": "/dtm/dtm-common-config.json",
+      "digitalTwinModelsList": "/dtm/dtm-models-list-config.json",
+      "digitalTwinRelationsEditor": "/dtm/dtm-relations-editor-config.json",
+      "digitalTwinDataDefinition": "/dtm/dtm-data-definition-config.json",
+      "digitalTwinModelConversion": "/dtm/dtm-model-conversion-config.json",
+      "digitalTwinModelSummary": "/dtm/dtm-model-summary-config.json",
+      "digitalTwinEntitiesList": "/dtm/dtm-entities-list-config.json",
+      "digitalTwinEntity": "/dtm/dtm-entity-config.json"
     }
   }
 }
