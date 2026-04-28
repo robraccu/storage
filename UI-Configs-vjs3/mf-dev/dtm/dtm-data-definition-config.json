@@ -1,6 +1,5 @@
 {
-  "name": "DTM Models List",
-  "mf": "demf-dtm-models-list",
+  "mf": "Digital Twin Data Definition",
   "api": "http://localhost:3000/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
