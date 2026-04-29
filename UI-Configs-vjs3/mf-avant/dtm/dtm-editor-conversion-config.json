@@ -1,5 +1,6 @@
 {
-  "mf": "Digital Twin Model Summary",
+  "name": "DTM Editor Conversion",
+  "mf": "demf-dtm-editor-conversion",
   "api": "http://localhost:3000/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }

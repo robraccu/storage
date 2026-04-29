@@ -1,5 +1,6 @@
 {
-  "mf": "Digital Twin Data Definition",
+  "name": "DTM Editor Definition",
+  "mf": "demf-dtm-editor-definition",
   "api": "http://localhost:3000/api/v1",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
