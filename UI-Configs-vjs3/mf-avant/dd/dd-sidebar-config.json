@@ -15,11 +15,8 @@
   "favorites": {
     "enabled": false,
     "uri": ""
-  },
-  "keycloak": {
-    "enabled": false
-  },
-  "logo": "/DataMashupEditor.svg",
+  }
+  "logo": "/DataDiscovery.svg",
   "miniLogo": "/de-mini.svg",
   "showServicesMenu": false
 }
