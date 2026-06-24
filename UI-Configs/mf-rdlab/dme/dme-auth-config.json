@@ -1,9 +1,0 @@
-{
-   "mf": "Auth",
-   "api": "//localhost:8083/api",
-   "keycloak": {
-      "url": "https://idm.digital-enabler.eng.it/auth",
-      "clientId": "rdlab",
-      "enabled": false
-   }
-}
