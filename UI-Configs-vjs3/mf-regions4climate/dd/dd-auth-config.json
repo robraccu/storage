@@ -1,5 +1,5 @@
 {
    "name": "Auth",
    "mf": "demf-auth",
-   "api": "//localhost:8899/api"
+   "api": "//localhost:5555/api"
 }
