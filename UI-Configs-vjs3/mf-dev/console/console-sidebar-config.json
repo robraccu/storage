@@ -1,7 +1,7 @@
 {
   "mf": "Sidebar",
   "api": "//localhost:8083/api",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it",
   "jsonTools": "https://storage.digital-enabler.eng.it/demo/tools.json",
   "links": [
     {

@@ -2,5 +2,5 @@
   "name": "DTM Editor Definition",
   "mf": "demf-dtm-editor-definition",
   "api": "http://localhost:3000/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+  "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it"
 }

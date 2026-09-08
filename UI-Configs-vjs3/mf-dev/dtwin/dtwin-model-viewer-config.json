@@ -1,7 +1,7 @@
 {
   "mf": "Model Viewer",
   "api": "http://localhost:8082/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+  "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it",
   "modelStorage": "http://localhost:9002/digital-twin/focchi/data",
   "project": "focchi"
 }
