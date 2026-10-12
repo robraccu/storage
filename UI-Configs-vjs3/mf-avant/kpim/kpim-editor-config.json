@@ -2,6 +2,7 @@
   "name": "KPIM Editor",
   "mf": "demf-kpim-editor",
   "api": "//localhost:32000/api/v1",
+  "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it",
   "unitSymbols": {
     "METER":"m",
     "KILOMETER":"km",
